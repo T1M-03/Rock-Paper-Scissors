@@ -41,3 +41,5 @@ public class Homework {
     }
     
 }
+
+// Why testing for > Paper or < Paper, T1M-03?
